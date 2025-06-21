@@ -34,11 +34,11 @@ To simulate and test this Verilog HDL project, you’ll need:
 - Basic understanding of finite state machines (FSMs) and traffic signal timing logic
 
  ## Folder Structure
-- [`traffic_light_controller.v`](./traffic_light_controller.v) — Verilog source file
+- [`traffic_light_controller.v`](./traffic_light_controller.v)       — Verilog source file
 - [`traffic_light_controller_tb.v`](./traffic_light_controller_tb.v) — Testbench for simulation
-- [`fsm_diagram.png`](./fsm_diagram.png) — FSM state diagram
-- [`simulation_result.jpeg`](./simulation_result.jpeg) — Simulation output screenshot
-- [`README.md`](./README.md) — This documentation file
+- [`fsm_diagram.png`](./fsm_diagram.png)                             — FSM state diagram
+- [`simulation_result.jpeg`](./simulation_result.jpeg)               — Simulation output screenshot
+- [`README.md`](./README.md)                                         — Documentation file
 
 
  
