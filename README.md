@@ -1,5 +1,5 @@
-# verilog_traffic_light
-A traffic light controller for a four-way intersection using Verilog HDL. The system includes timed transitions, pedestrian crossing signals, and a sensor-based traffic management system to handle varying traffic densities.
+# Traffic Light Controller System Using Verilog HDL
+This project deals with a traffic light controller for a four-way intersection using Verilog HDL. The system includes timed transitions, pedestrian crossing signals, and a sensor-based traffic management system to handle varying traffic densities.
 
 ## Overview
 Urban traffic congestion is a growing challenge in modern cities, demanding smarter and more adaptive traffic management solutions. This project presents a Verilog HDL-based traffic light controller, built using a finite state machine (FSM) for a four-way intersection.
@@ -36,11 +36,14 @@ To simulate and test this Verilog HDL project, you’ll need:
 
 - Basic understanding of finite state machines (FSMs) and traffic signal timing logic
 
-## Folder Structure
+<pre>
+ ## Folder Structure
 verilog_traffic_light/
 ├── traffic_light_controller.v        # Verilog source file
 ├── traffic_light_controller_tb.v     # Testbench for simulation
 ├── fsm_diagram.png                   # FSM state diagram
 ├── simulation_result.jpeg            # Simulation waveform screenshot
 └── README.md                         # Project documentation
+</pre>
+
  
