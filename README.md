@@ -23,7 +23,7 @@ The FSM-based controller operates on a predefined timing sequence, enhanced by r
 
 _Visual representation of the FSM controlling traffic signal transitions._
 
-## Simulation Screenshot
+## Simulation Result
 ![Simulation Result](simulation_result.jpeg)
 
 _Simulation output showing signal sequencing and pedestrian phase activation._
