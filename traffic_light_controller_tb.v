@@ -20,11 +20,6 @@ module traffic_light_controller_tb;
         .light_ew(light_ew),
         .pedestrian_signal(pedestrian_signal)
     );
-
-    initial begin
-    $dumpfile("traffic_light_controller_tb.vcd");
-    $dumpvars(0,traffic_light_controller_tb);
-end
     
     // Clock generation: Toggle every 5 ns (10 ns period)
     initial begin
