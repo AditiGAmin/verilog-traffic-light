@@ -27,3 +27,20 @@ _Visual representation of the FSM controlling traffic signal transitions._
 ![Simulation Result](simulation_result.jpeg)
 
 _Simulation output showing signal sequencing and pedestrian phase activation._
+
+## Requirements
+To simulate and test this Verilog HDL project, you’ll need:
+- A Verilog simulator such as ModelSim, Vivado, or Icarus Verilog
+
+- Optional: GTKWave for waveform visualization
+
+- Basic understanding of finite state machines (FSMs) and traffic signal timing logic
+
+## Folder Structure
+verilog_traffic_light/
+├── traffic_light_controller.v        # Verilog source file
+├── traffic_light_controller_tb.v     # Testbench for simulation
+├── fsm_diagram.png                   # FSM state diagram
+├── simulation_result.jpeg            # Simulation waveform screenshot
+└── README.md                         # Project documentation
+ 
